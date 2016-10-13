@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pajak">
+        <item>Pajak Bumi Bangunan</item>
+        <item>Pajak Hiburan</item>
+        <item>Pajak Hotel</item>
+        <item>Pajak Air Tanah</item>
+        <item>Pajak Penerangan Jalan Umum</item>
+    </string-array>
+</resources>
