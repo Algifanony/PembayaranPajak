@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
         if (cb4.isChecked()) cbHasil1 += "\t- " + cb4.getText() + "\n";
         if (cbHasil1.length() == strartlen1) {
             AlertDialog.Builder builder1 = new AlertDialog.Builder(MainActivity.this);
-            builder1.setMessage("Anda Belum Memilih Bukti Pembayaran!!");
+            builder1.setMessage("Anda Belum Memilih Bukti Pembayaran !!");
             builder1.setCancelable(true);
 
             builder1.setNeutralButton(
